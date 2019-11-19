@@ -29,5 +29,5 @@ RUN \
 
 EXPOSE 9851
 
-USER tile38
+# USER tile38
 CMD [ "./run.sh" ]
